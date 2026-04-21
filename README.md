@@ -26,4 +26,4 @@
 ## 📫 Contact
 - Email: komalmemane012@email.com
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=komal-memane)
+
