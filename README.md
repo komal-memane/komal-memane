@@ -1,6 +1,11 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+I'm+Komal+Memane;DevOps+Engineer" />
 </h1>
+# Hi 👋 I'm Komal Memane
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes" />
+</h3>
 
 🚀 DevOps Engineer in Progress
 
