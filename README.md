@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Automation+Enthusiast" />
+</p>
 ## Hi there 👋
 # Hi 👋 I'm Komal Memane
 
@@ -18,7 +21,7 @@
 - Kubernetes deployment
 
 ## 📊 GitHub Stats
-(we’ll add later)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=komal-memane&show_icons=true)
 
 ## 📫 Contact
 - Email: komalmemane012@email.com
