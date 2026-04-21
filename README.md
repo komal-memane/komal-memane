@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+I'm+Komal+Memane+ 👋;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Automation+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Hi+I'm+Komal+Memane;DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;Automation+Enthusiast" />
 </p
 
 🚀 DevOps Engineer in Progress
