@@ -130,6 +130,26 @@ while(alive) {
 </div>
 
 ---
+---
+# 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-memane&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/komal-memane/komal-memane/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+---
+---
 
 # ☁️ Favorite Quote
 
