@@ -15,17 +15,22 @@
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 🎓 Computer Science Student passionate about **DevOps & Cloud Technologies**  
-🚀 Learning how modern infrastructure and deployment systems work  
-💡 Exploring **Docker, Kubernetes, Jenkins, Linux & AWS**  
-📚 Building projects to gain practical hands-on experience  
-⚡ Interested in Automation, CI/CD, Cloud & Scalable Systems  
-🎯 Goal: Become a skilled **DevOps & Cloud Engineer**
+
+🚀 Learning modern DevOps tools and building hands-on projects  
+
+💡 Interested in **Docker, Kubernetes, AWS, Linux & Automation**  
+
+📚 Improving skills every day through practice and real projects  
+
+⚡ Exploring CI/CD pipelines, cloud infrastructure & containerization  
+
+🎯 Aspiring to become a professional **DevOps & Cloud Engineer**
 
 <br><br>
 
 ---
 
-# ⚒️ Tech Toolbox
+# ⚒️ Tech Stack
 
 <div align="center">
 
@@ -35,16 +40,15 @@
 
 ---
 
-# 🚀 Current Learning Journey
+# 🚀 Currently Learning
 
 ```yaml
-Learning:
-  - DevOps Fundamentals
+DevOps:
   - CI/CD Pipelines
   - Docker & Containers
   - Kubernetes Basics
-  - AWS Cloud
   - Linux Administration
+  - AWS Cloud Fundamentals
   - Shell Scripting
 
 Exploring:
@@ -60,45 +64,33 @@ Exploring:
 
 <div align="center">
 
-| 🚀 Project | 📖 Description | 🛠️ Tech |
+| 🚀 Project | 📖 Description | 🛠️ Technologies |
 |---|---|---|
 | CI/CD Pipeline | Automated build & deployment workflow using Jenkins | Jenkins, GitHub |
-| Dockerized App | Containerized Node.js application for consistent deployment | Docker, Node.js |
-| Kubernetes Deployment | Deployed containerized applications using Kubernetes | Kubernetes, YAML |
+| Dockerized App | Containerized Node.js application for deployment consistency | Docker, Node.js |
+| Kubernetes Deployment | Deployed applications using Kubernetes orchestration | Kubernetes, YAML |
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🌟 What Makes Me Different
 
-<div align="center">
+✨ Passionate learner with hands-on project experience  
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&border_radius=15"/>
+✨ Focused on practical implementation instead of only theory  
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&border_radius=15"/>
+✨ Quick learner who enjoys solving technical problems  
 
-</div>
+✨ Strong interest in Cloud & Automation technologies  
 
----
-
-# 💻 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&border_radius=15"/>
-
-</div>
+✨ Continuously improving through projects and experimentation  
 
 ---
 
-# 🏆 Achievements & Goals
+# 🎯 Career Goal
 
-✨ Building hands-on DevOps projects  
-✨ Improving Linux & Cloud skills daily  
-✨ Learning real-world deployment practices  
-✨ Preparing for internships & opportunities  
-✨ Growing consistently as a developer
+💼 Looking for opportunities, internships, and real-world experience in DevOps & Cloud Computing to grow as an engineer and contribute to impactful projects.
 
 ---
 
@@ -130,10 +122,8 @@ Exploring:
 while(alive) {
    learn();
    build();
-   break_things();
-   fix_things();
    automate();
-   grow();
+   improve();
 }
 ```
 
@@ -141,40 +131,18 @@ while(alive) {
 
 ---
 
-# 🐍 Contribution Snake
+# ☁️ Favorite Quote
 
 <div align="center">
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-# ☁️ DevOps Quote
-
-<div align="center">
-
-> “First, solve the problem. Then, automate the solution.” ⚡
+> “Automation is good, so long as you know exactly where to put the machine.” ⚡
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0072FF&height=180&section=footer"/>
 
 </div>
-</p>ion=footer"/>
-</p>
