@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
 
 🎓 Computer Science Student passionate about **DevOps & Cloud Technologies**  
 
@@ -59,7 +59,12 @@ Exploring:
 ```
 
 ---
+<div align="center">
 
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+
+</div>
+---
 # 📦 Featured Projects
 
 <div align="center">
@@ -92,6 +97,12 @@ Exploring:
 
 💼 Looking for opportunities, internships, and real-world experience in DevOps & Cloud Computing to grow as an engineer and contribute to impactful projects.
 
+---
+<div align="center">
+
+<img src="https://media.giphy.com/media/k61nOBRRBMxva/giphy.gif" width="350"/>
+
+</div>
 ---
 
 # 🌐 Connect With Me
@@ -147,36 +158,6 @@ while(alive) {
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="350"/>
-
-</div>
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
-
-</div>
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350"/>
-
-</div>
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350"/>
-
-</div>
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/k61nOBRRBMxva/giphy.gif" width="350"/>
-
-</div>
----
 
 <div align="center">
 
