@@ -130,13 +130,11 @@ while(alive) {
 </div>
 
 ---
----
 <div align="center">
 
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 
 </div>
----
 ---
 
 # ☁️ Favorite Quote
@@ -154,26 +152,31 @@ while(alive) {
 <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="350"/>
 
 </div>
+---
 <div align="center">
 
 <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
 
 </div>
+---
 <div align="center">
 
 <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350"/>
 
 </div>
+---
 <div align="center">
 
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350"/>
 
 </div>
+---
 <div align="center">
 
 <img src="https://media.giphy.com/media/k61nOBRRBMxva/giphy.gif" width="350"/>
 
 </div>
+---
 
 <div align="center">
 
