@@ -19,8 +19,6 @@
 - Dockerized Node.js app
 - Kubernetes deployment
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=komal-memane&show_icons=true)
 
 ## 📫 Contact
 - Email: komalmemane012@email.com
