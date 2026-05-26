@@ -131,21 +131,9 @@ while(alive) {
 
 ---
 ---
-# 💻 Most Used Languages
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-memane&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/komal-memane/komal-memane/blob/output/github-contribution-grid-snake.svg)
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
 
 </div>
 ---
@@ -160,6 +148,32 @@ while(alive) {
 </div>
 
 ---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="350"/>
+
+</div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
+
+</div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="350"/>
+
+</div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="350"/>
+
+</div>
+<div align="center">
+
+<img src="https://media.giphy.com/media/k61nOBRRBMxva/giphy.gif" width="350"/>
+
+</div>
 
 <div align="center">
 
