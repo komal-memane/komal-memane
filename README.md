@@ -1,26 +1,26 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Hi+👋+I'm+Komal+Memane;DevOps+Engineer+%7C+Cloud+Enthusiast;CI%2FCD+Automation+Specialist;Docker+%7C+Kubernetes+%7C+AWS;Building+Scalable+Infrastructure" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Hi+👋+I'm+Komal+Memane;DevOps+Learner+%7C+Cloud+Enthusiast;Student+Passionate+About+Automation;Docker+%7C+Kubernetes+%7C+AWS;Future+DevOps+Engineer" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Automation-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Student-DevOps%20Learner-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focused%20On-Cloud%20%26%20Automation-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-🚀 Passionate DevOps Engineer focused on building scalable, automated, and reliable infrastructure solutions.  
-💡 Enthusiastic about Cloud Computing, CI/CD Automation, Containerization, and Kubernetes.  
-⚡ Skilled in streamlining deployment workflows and improving system reliability.  
-📚 Constantly learning modern DevOps tools and best practices.  
-🎯 Goal: To become a highly skilled Cloud & DevOps Engineer contributing to impactful projects.
+🎓 I am a student passionate about DevOps, Cloud Computing, and Automation.  
+🚀 Currently learning and building hands-on projects using modern DevOps tools and technologies.  
+💡 Interested in CI/CD, Docker, Kubernetes, AWS, and Infrastructure Automation.  
+📚 Constantly exploring new technologies and improving my practical skills through projects.  
+🎯 Aspiring to become a professional DevOps & Cloud Engineer.
 
 ---
 
-# 🚀 Tech Stack & Tools
+# 🚀 Skills & Tools
 
 <p align="center">
 
@@ -30,84 +30,70 @@
 
 ---
 
-# 🛠️ Core Competencies
+# 🛠️ What I'm Learning
 
 ✅ CI/CD Pipeline Automation  
-✅ Docker Containerization  
-✅ Kubernetes Orchestration  
+✅ Docker & Containerization  
+✅ Kubernetes Basics  
 ✅ Linux Administration  
-✅ Git & GitHub Version Control  
-✅ Cloud Infrastructure (AWS)  
-✅ Monitoring & Deployment Strategies  
-✅ Automation & Scripting  
+✅ Git & GitHub  
+✅ AWS Cloud Fundamentals  
+✅ Shell Scripting  
+✅ DevOps Best Practices  
 
 ---
 
-# 📦 Featured DevOps Projects
+# 📦 Projects
 
 ## 🔹 CI/CD Pipeline using Jenkins
 
-🚀 Automated software delivery pipelines using Jenkins for faster and reliable deployments.
+🚀 Built a basic CI/CD pipeline using Jenkins to automate build and deployment processes.
 
-### Key Features:
-- Automated Build & Deployment
+### Features:
 - GitHub Integration
+- Automated Build Process
 - Continuous Integration Workflow
-- Reduced Manual Deployment Effort
 
-### Tech Used:
-`Jenkins` `GitHub` `Linux` `Shell Scripting`
+### Technologies Used:
+`Jenkins` `GitHub` `Linux`
 
 ---
 
 ## 🔹 Dockerized Node.js Application
 
-🐳 Containerized Node.js applications using Docker for portability and consistency across environments.
+🐳 Containerized a Node.js application using Docker for consistent deployment across environments.
 
-### Key Features:
-- Multi-container Setup
-- Lightweight Docker Images
-- Fast Application Deployment
-- Improved Environment Consistency
+### Features:
+- Docker Image Creation
+- Containerized Application Setup
+- Simplified Deployment Process
 
-### Tech Used:
-`Docker` `Node.js` `Linux`
+### Technologies Used:
+`Docker` `Node.js`
 
 ---
 
-## 🔹 Kubernetes Deployment Project
+## 🔹 Kubernetes Deployment
 
-☸️ Managed and deployed containerized applications using Kubernetes orchestration.
+☸️ Learned Kubernetes fundamentals by deploying containerized applications.
 
-### Key Features:
-- Kubernetes Pods & Deployments
-- Auto Scaling
-- Service Exposure
-- High Availability Deployment
+### Features:
+- Pods & Deployments
+- Service Configuration
+- Basic Scaling Concepts
 
-### Tech Used:
+### Technologies Used:
 `Kubernetes` `Docker` `YAML`
 
 ---
 
-# 📈 Currently Learning
+# 🌱 Currently Exploring
 
-🌱 Terraform  
-🌱 Ansible  
-🌱 Advanced Kubernetes  
-🌱 AWS DevOps Services  
-🌱 Monitoring Tools (Prometheus & Grafana)
-
----
-
-# 🏆 Certifications & Achievements
-
-🎖️ DevOps & Cloud Learning Enthusiast  
-🎖️ Hands-on Practice with Real-World Deployments  
-🎖️ Continuous Learning & Self-Improvement  
-🎖️ Active GitHub Project Builder  
-
-> *(Add your real certifications here later for stronger impact)*
+📘 Terraform  
+📘 Ansible  
+📘 Advanced Kubernetes  
+📘 AWS DevOps Services  
+📘 Monitoring Tools (Prometheus & Grafana)
 
 ---
 
@@ -126,6 +112,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 </p>
+
+---
+
+# 🎯 Career Objective
+
+💼 Looking for opportunities to gain practical experience in DevOps and Cloud technologies through internships and real-world projects.
 
 ---
 
@@ -149,26 +141,24 @@
 
 ---
 
-# 💼 Why Hire Me?
+# ✨ Soft Skills
 
-✨ Strong passion for DevOps & Cloud technologies  
-✨ Quick learner with hands-on project experience  
-✨ Dedicated to automation and system reliability  
-✨ Problem-solving mindset with growth attitude  
-✨ Team player with strong adaptability  
-✨ Focused on delivering scalable and efficient solutions  
+✔️ Quick Learner  
+✔️ Problem Solving  
+✔️ Team Collaboration  
+✔️ Adaptability  
+✔️ Continuous Learning Mindset  
 
 ---
 
-# 🔥 DevOps Mindset
+# 🔥 Learning Journey
 
 ```bash
 while(true) {
     learn();
-    build();
-    automate();
-    deploy();
-    improve();
+    practice();
+    build_projects();
+    improve_skills();
 }
 ```
 
@@ -182,4 +172,5 @@ while(true) {
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:007CF0&height=150&section=footer"/>
+</p>ion=footer"/>
 </p>
