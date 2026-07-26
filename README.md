@@ -12,7 +12,7 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
+<img align="right" alt="coding" width="300">
 
 🎓 Computer Science Student passionate about **DevOps & Cloud Technologies**  
 
