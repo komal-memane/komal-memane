@@ -1,166 +1,219 @@
 <div align="center">
 
-# ✨ Komal Memane ✨
+# Hi 👋, I'm Komal Memane
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=DevOps+Learner+🚀;Cloud+Enthusiast+☁️;Building+Projects+%26+Learning+Daily+💻;Future+DevOps+Engineer+🔥" />
+### DevOps Engineer | AWS | Docker | Kubernetes | Terraform
 
-<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="500"/>
+<p>
+Building scalable cloud infrastructure, automating deployments, and continuously learning modern DevOps practices.
+</p>
 
-</div>
-
----
-
-# 💫 About Me
-
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif">
-
-🎓 Computer Science Student passionate about **DevOps & Cloud Technologies**  
-
-🚀 Learning modern DevOps tools and building hands-on projects  
-
-💡 Interested in **Docker, Kubernetes, AWS, Linux & Automation**  
-
-📚 Improving skills every day through practice and real projects  
-
-⚡ Exploring CI/CD pipelines, cloud infrastructure & containerization  
-
-🎯 Aspiring to become a professional **DevOps & Cloud Engineer**
-
-<br><br>
-
----
-
-# ⚒️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,git,github,bash,nodejs,vscode"/>
-
-</div>
-
----
-
-# 🚀 Currently Learning
-
-```yaml
-DevOps:
-  - CI/CD Pipelines
-  - Docker & Containers
-  - Kubernetes Basics
-  - Linux Administration
-  - AWS Cloud Fundamentals
-  - Shell Scripting
-
-Exploring:
-  - Terraform
-  - Ansible
-  - Monitoring Tools
-  - Cloud Automation
-```
-
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
-
-</div>
----
-# 📦 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📖 Description | 🛠️ Technologies |
-|---|---|---|
-| CI/CD Pipeline | Automated build & deployment workflow using Jenkins | Jenkins, GitHub |
-| Dockerized App | Containerized Node.js application for deployment consistency | Docker, Node.js |
-| Kubernetes Deployment | Deployed applications using Kubernetes orchestration | Kubernetes, YAML |
-
-</div>
-
----
-
-# 🌟 What Makes Me Different
-
-✨ Passionate learner with hands-on project experience  
-
-✨ Focused on practical implementation instead of only theory  
-
-✨ Quick learner who enjoys solving technical problems  
-
-✨ Strong interest in Cloud & Automation technologies  
-
-✨ Continuously improving through projects and experimentation  
-
----
-
-# 🎯 Career Goal
-
-💼 Looking for opportunities, internships, and real-world experience in DevOps & Cloud Computing to grow as an engineer and contribute to impactful projects.
-
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/k61nOBRRBMxva/giphy.gif" width="350"/>
-
-</div>
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p>
+<a href="https://github.com/komal-memane">
+<img src="https://komarev.com/ghpvc/?username=komal-memane&label=Profile%20Views&color=0e75b6&style=flat" />
 </a>
 
-<a href="mailto:komalmemane012@email.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://github.com/komal-memane?tab=followers">
+<img src="https://img.shields.io/github/followers/komal-memane?label=Followers&style=social"/>
 </a>
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+</p>
 
 </div>
 
 ---
 
-# 🔥 DevOps Mindset
+# 👩‍💻 About Me
+
+- 🎓 B.Sc. Computer Science Graduate
+- 💼 DevOps Engineer Intern at **Hisan Labs Pvt. Ltd.**
+- ✅ DevOps Course Completed
+- ☁️ Passionate about Cloud Computing & Automation
+- 🚀 Interested in Infrastructure as Code, CI/CD and Kubernetes
+- 🌱 Continuously improving through real-world projects
+- 📍 Pune, Maharashtra
+
+---
+
+# 🛠 Tech Stack
+
+## Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure"/>
+</p>
+
+## DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github"/>
+</p>
+
+## Operating System
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,bash"/>
+</p>
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python"/>
+</p>
+
+## Monitoring
+
+- Grafana
+- Prometheus
+- CloudWatch
+
+---
+
+# 🚀 Professional Experience
+
+### DevOps Engineer Intern
+**Hisan Labs Pvt. Ltd.**
+
+**September 2025 – Present**
+
+- Worked with AWS services including EC2, IAM, VPC, S3, Route53, RDS and CloudWatch.
+- Built CI/CD pipelines using Jenkins and GitHub.
+- Containerized applications using Docker.
+- Deployed workloads on Kubernetes.
+- Provisioned infrastructure using Terraform.
+- Configured networking including VPC, Subnets, Route Tables and Security Groups.
+- Monitored infrastructure using Grafana, Prometheus and CloudWatch.
+- Managed Linux servers and troubleshooting tasks.
+
+---
+
+# 🚀 Featured Projects
+
+## Student Registration System
+
+**Tech Stack**
+
+AWS • Docker • Kubernetes • Jenkins • RDS
+
+- Built cloud infrastructure
+- Configured secure VPC architecture
+- Automated deployment using Jenkins
+- Containerized application using Docker
+- Kubernetes deployment
+
+---
+
+## AWS Monitoring Dashboard
+
+**Tech Stack**
+
+CloudWatch • Grafana • IAM
+
+- EC2 Monitoring Dashboard
+- CPU & Network Monitoring
+- IAM Integration
+- Infrastructure Visualization
+
+---
+
+## Azure Static Website Hosting
+
+**Tech Stack**
+
+Azure Blob Storage • Azure CDN • Azure Monitor
+
+- Static Website Hosting
+- HTTPS Configuration
+- CDN Integration
+- Performance Monitoring
+
+---
+
+# 📜 Skills
+
+✔ AWS Cloud
+
+✔ Azure Cloud
+
+✔ Docker
+
+✔ Kubernetes
+
+✔ Terraform
+
+✔ Jenkins
+
+✔ Git & GitHub
+
+✔ Linux Administration
+
+✔ CI/CD
+
+✔ Networking
+
+✔ Shell Scripting
+
+✔ Infrastructure as Code
+
+---
+
+# 📈 GitHub Stats
 
 <div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=komal-memane&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=komal-memane&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=komal-memane&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=komal-memane&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+# 📫 Connect with Me
+
+<p>
+
+<a href="https://linkedin.com/in/www.linkedin.com/in/komal-memane-538a553aa">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:komalmemane012@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/komal-memane">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💡 DevOps Philosophy
 
 ```bash
-while(alive) {
-   learn();
-   build();
-   automate();
-   improve();
+while(true){
+
+    Learn();
+
+    Build();
+
+    Automate();
+
+    Improve();
+
+    Repeat();
+
 }
 ```
 
-</div>
-
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-
-</div>
 ---
 
-# ☁️ Favorite Quote
-
-<div align="center">
-
-> “Automation is good, so long as you know exactly where to put the machine.” ⚡
-
-</div>
-
----
-
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:0072FF&height=180&section=footer"/>
-
-</div>
+> "First automate what is repeatable, then optimize what is valuable."
