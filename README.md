@@ -1,219 +1,147 @@
 <div align="center">
 
-# Hi 👋, I'm Komal Memane
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,100:2563EB&text=Komal%20Memane&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DevOps%20Engineer%20•%20Cloud%20Enthusiast%20•%20Automation&descAlignY=58&descSize=18"/>
 
-### DevOps Engineer | AWS | Docker | Kubernetes | Terraform
+<br>
+
+### Building reliable cloud infrastructure with AWS, Docker, Kubernetes & Terraform
 
 <p>
-Building scalable cloud infrastructure, automating deployments, and continuously learning modern DevOps practices.
+I enjoy designing scalable infrastructure, automating deployments, and continuously improving my DevOps skills through hands-on projects.
 </p>
 
 <p>
-<a href="https://github.com/komal-memane">
-<img src="https://komarev.com/ghpvc/?username=komal-memane&label=Profile%20Views&color=0e75b6&style=flat" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/komal-memane?tab=followers">
-<img src="https://img.shields.io/github/followers/komal-memane?label=Followers&style=social"/>
+<a href="mailto:komalmemane012@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
+
+<a href="https://github.com/komal-memane">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# About
 
-- 🎓 B.Sc. Computer Science Graduate
-- 💼 DevOps Engineer Intern at **Hisan Labs Pvt. Ltd.**
-- ✅ DevOps Course Completed
-- ☁️ Passionate about Cloud Computing & Automation
-- 🚀 Interested in Infrastructure as Code, CI/CD and Kubernetes
-- 🌱 Continuously improving through real-world projects
-- 📍 Pune, Maharashtra
+```yaml
+Name: Komal Memane
+Role: DevOps Engineer
+Location: Pune, Maharashtra, India
 
----
+Current Focus:
+  - AWS Cloud
+  - Kubernetes
+  - Docker
+  - Terraform
+  - Linux
+  - CI/CD
 
-# 🛠 Tech Stack
-
-## Cloud
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure"/>
-</p>
-
-## DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,terraform,git,github"/>
-</p>
-
-## Operating System
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,bash"/>
-</p>
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python"/>
-</p>
-
-## Monitoring
-
-- Grafana
-- Prometheus
-- CloudWatch
+Learning:
+  - Production Kubernetes
+  - Infrastructure as Code
+  - Cloud Automation
+```
 
 ---
 
-# 🚀 Professional Experience
+# Tech Stack
 
-### DevOps Engineer Intern
+| Category | Technologies |
+|-----------|--------------|
+| ☁️ Cloud | AWS, Azure |
+| 🐳 Containers | Docker, Kubernetes |
+| 🏗 Infrastructure | Terraform |
+| ⚙️ CI/CD | Jenkins, GitHub Actions |
+| 🐧 Operating System | Linux |
+| 📊 Monitoring | Grafana, Prometheus, CloudWatch |
+| 💻 Languages | Python, Bash |
+| 🔧 Version Control | Git, GitHub |
+
+---
+
+# Experience
+
+## DevOps Engineer Intern
+
 **Hisan Labs Pvt. Ltd.**
 
 **September 2025 – Present**
 
-- Worked with AWS services including EC2, IAM, VPC, S3, Route53, RDS and CloudWatch.
-- Built CI/CD pipelines using Jenkins and GitHub.
-- Containerized applications using Docker.
-- Deployed workloads on Kubernetes.
-- Provisioned infrastructure using Terraform.
-- Configured networking including VPC, Subnets, Route Tables and Security Groups.
-- Monitored infrastructure using Grafana, Prometheus and CloudWatch.
-- Managed Linux servers and troubleshooting tasks.
+- Deploying applications using Docker and Kubernetes.
+- Working with AWS services including EC2, VPC, IAM, S3, Route 53, RDS and CloudWatch.
+- Creating Infrastructure as Code using Terraform.
+- Building CI/CD pipelines using Jenkins.
+- Managing Linux servers.
+- Monitoring cloud infrastructure using Grafana, Prometheus and CloudWatch.
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
 ## Student Registration System
 
-**Tech Stack**
+> AWS • Docker • Kubernetes • Jenkins • RDS
 
-AWS • Docker • Kubernetes • Jenkins • RDS
-
-- Built cloud infrastructure
-- Configured secure VPC architecture
-- Automated deployment using Jenkins
-- Containerized application using Docker
-- Kubernetes deployment
+Cloud-native deployment with containerization, CI/CD automation and Kubernetes orchestration.
 
 ---
 
 ## AWS Monitoring Dashboard
 
-**Tech Stack**
+> CloudWatch • Grafana
 
-CloudWatch • Grafana • IAM
-
-- EC2 Monitoring Dashboard
-- CPU & Network Monitoring
-- IAM Integration
-- Infrastructure Visualization
+Real-time infrastructure monitoring and dashboard visualization.
 
 ---
 
-## Azure Static Website Hosting
+## Azure Static Website
 
-**Tech Stack**
+> Azure Blob Storage • Azure CDN
 
-Azure Blob Storage • Azure CDN • Azure Monitor
-
-- Static Website Hosting
-- HTTPS Configuration
-- CDN Integration
-- Performance Monitoring
+Static website hosting with CDN integration and HTTPS.
 
 ---
 
-# 📜 Skills
+# GitHub Analytics
 
-✔ AWS Cloud
+<p align="center">
 
-✔ Azure Cloud
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=komal-memane&show_icons=true&theme=github_dark&hide_border=true"/>
 
-✔ Docker
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-memane&layout=compact&theme=github_dark&hide_border=true"/>
 
-✔ Kubernetes
+</p>
 
-✔ Terraform
+<p align="center">
 
-✔ Jenkins
-
-✔ Git & GitHub
-
-✔ Linux Administration
-
-✔ CI/CD
-
-✔ Networking
-
-✔ Shell Scripting
-
-✔ Infrastructure as Code
-
----
-
-# 📈 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=komal-memane&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=komal-memane&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=komal-memane&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=komal-memane&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
-# 📫 Connect with Me
-
-<p>
-
-<a href="https://linkedin.com/in/www.linkedin.com/in/komal-memane-538a553aa">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:komalmemane012@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/komal-memane">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=komal-memane&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 💡 DevOps Philosophy
+# Current Goals
 
-```bash
-while(true){
-
-    Learn();
-
-    Build();
-
-    Automate();
-
-    Improve();
-
-    Repeat();
-
-}
-```
+- Build production-ready DevOps projects
+- Master Kubernetes
+- Improve Terraform modules
+- Learn GitHub Actions
+- Strengthen Linux administration
 
 ---
 
-> "First automate what is repeatable, then optimize what is valuable."
+<div align="center">
+
+### Thanks for visiting!
+
+*"Great infrastructure should be reliable, automated, and easy to maintain."*
+
+</div>
