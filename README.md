@@ -12,7 +12,6 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="300">
 
 🎓 Computer Science Student passionate about **DevOps & Cloud Technologies**  
 
