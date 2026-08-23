@@ -6,7 +6,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+%7C+Automation+%7C+Containers;Build+%7C+Deploy+%7C+Monitor+%7C+Improve" />
 
-<a href="https://www.linkedin.com/in/komal-memane-37b263255/">
+<a href="https://www.linkedin.com/in/komal-memane-538a553aa/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:komalmemane012@gmail.com">
