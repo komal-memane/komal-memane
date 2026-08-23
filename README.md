@@ -1,10 +1,8 @@
 <div align="center">
 
-# ✨ Komal Memane ✨
+# 👋 Hi, I'm Komal Memane
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=DevOps+Learner+🚀;Cloud+Enthusiast+☁️;Building+Projects+%26+Learning+Daily+💻;Future+DevOps+Engineer+🔥" />
-
-<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="500"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=DevOps+Engineer+Intern+🚀;AWS+%7C+Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+%7C+Jenkins+%7C+Linux;Cloud+%26+DevOps+Enthusiast+☁️" />
 
 </div>
 
@@ -12,20 +10,21 @@
 
 # 💫 About Me
 
+🎓 Computer Science graduate with hands-on experience in **DevOps and Cloud technologies**
 
-🎓 Computer Science Student passionate about **DevOps & Cloud Technologies**  
+💼 Currently working as a **DevOps Engineer Intern**
 
-🚀 Learning modern DevOps tools and building hands-on projects  
+☁️ Hands-on with **AWS cloud infrastructure, EC2, VPC, IAM, S3, RDS, Route 53, CloudWatch and EKS**
 
-💡 Interested in **Docker, Kubernetes, AWS, Linux & Automation**  
+🐳 Experienced in **Docker containerization** and **Kubernetes deployments**
 
-📚 Improving skills every day through practice and real projects  
+⚙️ Working with **Jenkins CI/CD** and **Terraform Infrastructure as Code**
 
-⚡ Exploring CI/CD pipelines, cloud infrastructure & containerization  
+📊 Exploring cloud monitoring and observability using **Grafana, Prometheus and CloudWatch**
 
-🎯 Aspiring to become a professional **DevOps & Cloud Engineer**
+🐧 Comfortable working with **Linux, Git and GitHub**
 
-<br><br>
+🎯 Looking to grow as a **DevOps / Cloud Engineer** by working on real-world infrastructure and automation challenges.
 
 ---
 
@@ -33,90 +32,109 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,git,github,bash,nodejs,vscode"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,terraform,linux,git,github,bash,python" />
 
 </div>
 
+### ☁️ Cloud
+
+**AWS:** EC2 • VPC • IAM • S3 • RDS • EBS • Route 53 • CloudWatch • EKS • Load Balancer • Auto Scaling
+
+**Azure:** Virtual Machines • VNet • Azure AD • Blob Storage • Azure Monitor • Azure CDN • Azure DNS
+
+### ⚙️ DevOps
+
+Docker • Kubernetes • Jenkins • Terraform • Git • GitHub
+
+### 📊 Monitoring
+
+Grafana • Prometheus • CloudWatch
+
+### 💻 Operating Systems & Scripting
+
+Linux • Windows • Python • Shell Scripting
+
 ---
 
-# 🚀 Currently Learning
+# 🚀 Featured Projects
+
+## 🎓 Student Registration System
+
+**AWS EC2 • RDS • Docker • Kubernetes • Jenkins**
+
+* Deployed a Student Registration web application on AWS using EC2 and RDS.
+* Configured a VPC with public and private subnets for a structured cloud architecture.
+* Provisioned Amazon RDS for persistent database storage.
+* Containerized application components using Docker.
+* Deployed workloads using Kubernetes.
+* Implemented Jenkins CI/CD automation for application deployment.
+
+---
+
+## 🏥 Medical B2B ERP – DevOps Project
+
+**AWS • EKS • Kubernetes • Docker • Jenkins • Terraform**
+
+* Worked on deploying a microservices-based Medical B2B ERP application using Docker and Kubernetes.
+* Worked with **AWS EKS** to deploy and manage containerized workloads.
+* Used **Terraform modules** for infrastructure provisioning and management.
+* Worked with **Jenkins CI/CD** for automated build and deployment workflows.
+* Worked with AWS services including **EKS, S3, CloudFront and Route 53**.
+
+---
+
+# 💼 Experience
+
+### DevOps Engineer Intern
+
+**Hisan Labs Pvt. Ltd., Pune**
+*Feb 2026 – Present*
+
+* Worked with AWS cloud services for infrastructure management and deployment tasks.
+* Assisted in implementing CI/CD pipelines using Jenkins and GitHub.
+* Practiced infrastructure provisioning and automation using Terraform.
+* Containerized applications using Docker and explored Kubernetes deployments.
+* Worked with CloudWatch, Grafana and Prometheus for monitoring.
+* Configured VPC networking components including subnets, route tables, internet gateways and security groups.
+* Worked with Linux systems for server management and troubleshooting.
+
+---
+
+# 📚 Currently Improving
 
 ```yaml
-DevOps:
-  - CI/CD Pipelines
-  - Docker & Containers
-  - Kubernetes Basics
-  - Linux Administration
-  - AWS Cloud Fundamentals
-  - Shell Scripting
-
-Exploring:
+Focus Areas:
+  - AWS Cloud & EKS
+  - Kubernetes
   - Terraform
-  - Ansible
-  - Monitoring Tools
-  - Cloud Automation
+  - CI/CD Automation
+  - Docker & Containers
+  - Linux Administration
+  - Cloud Monitoring
+  - Infrastructure as Code
 ```
-
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
-
-</div>
----
-# 📦 Featured Projects
-
-<div align="center">
-
-| 🚀 Project | 📖 Description | 🛠️ Technologies |
-|---|---|---|
-| CI/CD Pipeline | Automated build & deployment workflow using Jenkins | Jenkins, GitHub |
-| Dockerized App | Containerized Node.js application for deployment consistency | Docker, Node.js |
-| Kubernetes Deployment | Deployed applications using Kubernetes orchestration | Kubernetes, YAML |
-
-</div>
-
----
-
-# 🌟 What Makes Me Different
-
-✨ Passionate learner with hands-on project experience  
-
-✨ Focused on practical implementation instead of only theory  
-
-✨ Quick learner who enjoys solving technical problems  
-
-✨ Strong interest in Cloud & Automation technologies  
-
-✨ Continuously improving through projects and experimentation  
 
 ---
 
 # 🎯 Career Goal
 
-💼 Looking for opportunities, internships, and real-world experience in DevOps & Cloud Computing to grow as an engineer and contribute to impactful projects.
+I'm looking for opportunities where I can apply my **DevOps, AWS and Cloud skills** to real-world infrastructure, automation, deployment and monitoring challenges while continuing to grow as a DevOps Engineer.
 
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/k61nOBRRBMxva/giphy.gif" width="350"/>
-
-</div>
 ---
 
 # 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:komalmemane012@email.com">
+<a href="mailto:komalmemane012@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/komal-memane">
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -124,38 +142,11 @@ Exploring:
 
 ---
 
-# 🔥 DevOps Mindset
-
 <div align="center">
 
-```bash
-while(alive) {
-   learn();
-   build();
-   automate();
-   improve();
-}
-```
+### ⚡ DevOps Mindset
+
+**Learn → Build → Automate → Monitor → Improve**
 
 </div>
 
----
-<div align="center">
-
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
-
-</div>
----
-
-# ☁️ Favorite Quote
-
-<div align="center">
-
-> “Automation is good, so long as you know exactly where to put the machine.” ⚡
-
-</div>
-
----
-
-
-<div align="center">
