@@ -4,7 +4,9 @@
 
 ### `DevOps Engineer Intern` · `AWS` · `Kubernetes` · `Terraform` · `CI/CD`
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+%7C+Automation+%7C+Containers;Build+%7C+Deploy+%7C+Monitor+%7C+Improve" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+%7C+Automation+%7C+Containers;Build+%7C+Deploy+%7C+Monitor+%7C+Improve" />
+
+<br>
 
 <a href="https://www.linkedin.com/in/komal-memane-538a553aa/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,6 +22,10 @@
 
 ---
 
+> **“Automate everything you can, monitor everything that matters, and always improve what you build.”**
+
+---
+
 ## `01` · ABOUT ME
 
 ```bash
@@ -30,40 +36,38 @@ $ role
 DevOps Engineer Intern
 
 $ focus
-AWS | Kubernetes | Terraform | Jenkins | Docker
+Cloud | Automation | Containers | CI/CD
 ```
 
-🎓 Computer Science Graduate with a strong interest in **Cloud Computing and DevOps**.
+🎓 Computer Science Graduate passionate about **Cloud Computing & DevOps**.
 
 💼 **DevOps Engineer Intern — Hisan Labs Pvt. Ltd.**
 
-☁️ Working with **AWS cloud infrastructure, Kubernetes, Docker, Jenkins and Terraform**.
+☁️ Working with **AWS, Kubernetes, Docker, Terraform & Jenkins**.
 
-📊 Exploring **CloudWatch, Prometheus and Grafana** for monitoring and observability.
-
-> Interested in building reliable infrastructure, automating deployments and improving cloud environments.
+📊 Exploring **CloudWatch, Prometheus & Grafana** for monitoring and observability.
 
 ---
 
 ## `02` · TECH STACK
 
-### ☁️ Cloud
+**☁️ Cloud**
 
 `AWS` `EC2` `VPC` `IAM` `S3` `RDS` `EKS` `CloudWatch` `CloudFront` `Route 53`
 
-### 🐳 Containers & Orchestration
+**🐳 Containers**
 
 `Docker` `Kubernetes` `Amazon EKS`
 
-### ⚙️ CI/CD & IaC
+**⚙️ DevOps**
 
-`Jenkins` `Terraform` `Git` `GitHub`
+`Terraform` `Jenkins` `Git` `GitHub`
 
-### 📊 Monitoring
+**📊 Monitoring**
 
 `CloudWatch` `Prometheus` `Grafana`
 
-### 🐧 Systems
+**🐧 Systems**
 
 `Linux` `Shell Scripting` `Python`
 
@@ -71,46 +75,43 @@ AWS | Kubernetes | Terraform | Jenkins | Docker
 
 ## `03` · EXPERIENCE
 
-### DevOps Engineer Intern — Hisan Labs Pvt. Ltd.
+### 💼 DevOps Engineer Intern — Hisan Labs Pvt. Ltd.
 
-**Feb 2026 — Present · Pune, India**
+`Feb 2026 — Present` · `Pune, India`
 
-* Worked with **AWS infrastructure and cloud services**.
-* Worked with **Amazon EKS and Kubernetes** for containerized workloads.
-* Used **Docker** for application containerization.
-* Worked with **Jenkins** for CI/CD automation.
-* Worked with **Terraform modules** for Infrastructure as Code.
-* Worked with **CloudWatch, Prometheus and Grafana** for monitoring and observability.
-* Used **Linux** for server management and troubleshooting.
+* AWS cloud infrastructure & services
+* Kubernetes & Amazon EKS
+* Docker containerization
+* Jenkins CI/CD automation
+* Terraform Infrastructure as Code
+* CloudWatch, Prometheus & Grafana
+* Linux administration & troubleshooting
 
 ---
 
 ## `04` · FEATURED PROJECTS
 
-### 🏥 Medical B2B ERP — DevOps Project
+### 🏥 Medical B2B ERP
 
-**AWS EKS · Kubernetes · Docker · Jenkins · Terraform**
+`AWS EKS` · `Kubernetes` · `Docker` · `Jenkins` · `Terraform`
 
 ```text
 GitHub → Jenkins → Docker → AWS EKS → Kubernetes
-                         │
-                    Terraform
-                         │
+                         ↓
                     AWS Services
 ```
 
-* Worked with a **microservices-based application**.
-* Containerized workloads using **Docker**.
-* Worked with **AWS EKS and Kubernetes** for deployment.
-* Worked with **Jenkins CI/CD automation**.
-* Used **Terraform modules** for infrastructure management.
-* Worked with **S3, CloudFront and Route 53**.
+* Microservices-based application
+* Docker containerization
+* Kubernetes deployment on EKS
+* Jenkins CI/CD automation
+* Terraform infrastructure management
 
 ---
 
 ### 🎓 Student Registration System
 
-**AWS EC2 · RDS · VPC · Docker · Kubernetes · Jenkins**
+`AWS EC2` · `RDS` · `VPC` · `Docker` · `Kubernetes`
 
 ```text
 AWS VPC → EC2 → Docker → Kubernetes
@@ -118,50 +119,39 @@ AWS VPC → EC2 → Docker → Kubernetes
             └────→ RDS
 ```
 
-* Deployed a web application on **AWS EC2**.
-* Configured **VPC public/private subnet architecture**.
-* Integrated **Amazon RDS** for database storage.
-* Containerized the application using **Docker**.
-* Worked with **Kubernetes** and **Jenkins CI/CD**.
+* AWS application deployment
+* VPC & subnet configuration
+* RDS database integration
+* Docker & Kubernetes deployment
 
 ---
 
-### 📊 AWS Monitoring & Observability
+### 📊 AWS Monitoring
 
-**CloudWatch · Prometheus · Grafana · EC2**
+`CloudWatch` · `Prometheus` · `Grafana` · `EC2`
 
 ```text
-AWS Resources → Metrics → CloudWatch / Prometheus → Grafana
+AWS Resources → Metrics → Monitoring → Grafana
 ```
 
-* Worked with **CloudWatch metrics and alerts**.
-* Explored **Prometheus** for metrics collection.
-* Built and explored **Grafana dashboards**.
-* Practiced infrastructure and application monitoring.
+* CloudWatch metrics & alarms
+* Prometheus metrics collection
+* Grafana dashboards
+* Infrastructure monitoring
 
 ---
 
-## `05` · CURRENT FOCUS
+## `05` · DEVOPS MINDSET
 
 ```text
-AWS / EKS              → Cloud & Kubernetes
-Kubernetes             → Container Orchestration
-Terraform              → Infrastructure as Code
-Jenkins                → CI/CD Automation
-Docker                 → Containerization
-CloudWatch / Grafana   → Monitoring & Observability
-Linux                  → Administration & Troubleshooting
+PLAN → CODE → BUILD → TEST → DEPLOY → MONITOR → IMPROVE
+  ↑                                                     ↓
+  └─────────────────────── 🔁 ─────────────────────────┘
 ```
-
-### Goal
-
-**Build → Automate → Deploy → Monitor → Improve**
-
----
-
-<div align="center">
 
 ### `learn()` · `build()` · `automate()` · `monitor()` · `improve()`
+
+<div align="center">
 
 **Building reliable cloud infrastructure, one deployment at a time. 🚀**
 
