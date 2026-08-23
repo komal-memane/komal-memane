@@ -62,14 +62,6 @@ CI/CD • Infrastructure as Code • Containerization • Cloud Networking • L
 
 ---
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="350"/>
-
-</div>
-
----
-
 # 💼 Experience
 
 ### DevOps Engineer Intern
