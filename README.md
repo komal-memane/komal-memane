@@ -43,8 +43,6 @@
 
 ### `BUILD` → `AUTOMATE` → `DEPLOY` → `MONITOR`
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="240"/>
-
 <a href="https://www.linkedin.com/in/komal-memane-37b263255/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
