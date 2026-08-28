@@ -1,89 +1,121 @@
-<div align="center">
-
 # `komal@devops:~$`
 
 ### Komal Memane
 
 **DevOps Engineer Intern · Pune, India**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=I+like+turning+%22it+works%22+into+%22it+deploys%22.;Learning+clouds%2C+breaking+things%2C+fixing+them.;One+terminal+at+a+time." />
-
-</div>
+> **“Automate the boring. Debug the unexpected.”**
 
 ---
 
-```bash
-┌──(komal㉿devops)-[~]
-└─$ cat about.txt
+```console
+komal@devops:~$ ./about-me
 
-DevOps Engineer Intern who enjoys working with cloud,
-containers, Linux and deployment automation.
+Initializing...
 
-Currently exploring how applications move from
-"works on my machine" → production.
+[████████████████████████████] 100%
 
-Learning by doing, troubleshooting, and occasionally
-asking "why is this service not starting?" 😅
+NAME        Komal Memane
+ROLE        DevOps Engineer Intern
+STATUS      Learning • Experimenting • Improving
+CURRENTLY   Turning coffee into commands ☕ → $ _
+
 ```
 
 ---
 
-### `$ cat toolbox.txt`
+```console
+komal@devops:~$ cat philosophy
+
+╭──────────────────────────────────────────────╮
+│                                              │
+│  Make it work.                               │
+│  Make it repeatable.                         │
+│  Make it automated.                          │
+│  Then figure out why it broke at 2 AM.      │
+│                                              │
+╰──────────────────────────────────────────────╯
+
+```
+
+---
+
+```console
+komal@devops:~$ ls -la ./mindset
+
+drwxr-xr-x  curiosity
+drwxr-xr-x  troubleshooting
+drwxr-xr-x  automation
+drwxr-xr-x  continuous-learning
+-rwxr-xr-x  coffee.sh
+
+```
+
+---
+
+```console
+komal@devops:~$ ./daily-workflow.sh
+
+$ git push
+      ↓
+$ pipeline
+      ↓
+$ build
+      ↓
+$ deploy
+      ↓
+$ something breaks
+      ↓
+$ check logs
+      ↓
+$ fix it
+      ↓
+$ deploy again
+
+                 ┌─────────────────┐
+                 │      SUCCESS    │
+                 └────────┬────────┘
+                          │
+                          ↓
+                       repeat.
+
+```
+
+---
+
+### `404: "works on my machine" not found`
+
+`debugging > guessing`
+
+`automation > repetition`
+
+`logs > assumptions`
+
+---
+
+```console
+komal@devops:~$ git status
+
+On branch: learning
+
+Your branch is ahead of yesterday.
+
+nothing is broken...
+
+yet. :)
+
+```
+
+---
+
+### `komal@devops:~$ ./keep-going.sh`
 
 ```text
-AWS          ███████████████░░░   exploring
-Docker       ████████████████░░   hands-on
-Kubernetes   ██████████████░░░░   learning
-Terraform    ███████████████░░░   hands-on
-Jenkins      ██████████████░░░░   hands-on
-Linux        ████████████████░░   comfortable
-Git          █████████████████░   daily use
+learning...
+experimenting...
+troubleshooting...
+improving...
+
+Process exited with code 0
+
 ```
-
----
-
-### `$ ls ~/projects`
-
-```text
-📁 student-management-system/
-   └── AWS · Docker · Kubernetes · Jenkins
-
-📁 aws-monitoring-dashboard/
-   └── CloudWatch · Grafana · EC2
-
-📁 terraform-infrastructure/
-   └── Terraform · AWS · VPC · EC2
-```
-
----
-
-### `$ tail -f learning.log`
-
-```text
-[✓] Linux & Shell
-[✓] Git & GitHub
-[✓] Docker
-[✓] AWS fundamentals
-[✓] Terraform fundamentals
-[✓] Kubernetes fundamentals
-[→] CI/CD
-[→] Monitoring & Observability
-[→] More real-world troubleshooting
-```
-
----
-
-<div align="center">
-
-### `while (learning) { keepGoing(); }` 🚀
-
-<br>
-
-**If it can be automated, I'll probably try.**
-
-<br>
-
-<a href="www.linkedin.com/in/komal-memane-538a553aa">LinkedIn</a>
-  •   <a href="https://github.com/komal-memane">GitHub</a>
-
-</div>
