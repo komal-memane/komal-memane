@@ -1,59 +1,89 @@
 <div align="center">
 
-# 👋 Hi, I'm Komal Memane
+# `komal@devops:~$`
 
-### `DevOps Engineer Intern` · `Cloud Enthusiast` · `Automation Learner`
+### Komal Memane
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=19&pause=1200&color=00D9FF&center=true&vCenter=true&width=700&lines=Cloud+Infrastructure+%7C+Automation+%7C+Containers;Build+%7C+Deploy+%7C+Monitor+%7C+Improve" />
+**DevOps Engineer Intern · Pune, India**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=650&lines=I+like+turning+%22it+works%22+into+%22it+deploys%22.;Learning+clouds%2C+breaking+things%2C+fixing+them.;One+terminal+at+a+time." />
 
 </div>
 
 ---
 
-### `whoami`
-
 ```bash
-$ whoami
-Komal Memane
+┌──(komal㉿devops)-[~]
+└─$ cat about.txt
 
-$ role
-DevOps Engineer Intern
+DevOps Engineer Intern who enjoys working with cloud,
+containers, Linux and deployment automation.
 
-$ passion
-Cloud Computing + DevOps
+Currently exploring how applications move from
+"works on my machine" → production.
 
-$ currently_learning
-AWS | Kubernetes | Terraform | CI/CD
-
-$ mindset
-Learn → Build → Automate → Improve
+Learning by doing, troubleshooting, and occasionally
+asking "why is this service not starting?" 😅
 ```
-
-> **“Great systems aren't built once — they are continuously improved.”** ⚙️
 
 ---
 
-### `tech_stack`
+### `$ cat toolbox.txt`
 
 ```text
-☁️  Cloud          → AWS
-🐳  Containers      → Docker
-☸️  Orchestration   → Kubernetes / EKS
-🏗️  IaC             → Terraform
-🔄  CI/CD           → Jenkins
-📊  Monitoring      → CloudWatch / Prometheus / Grafana
-🐧  Systems         → Linux / Shell Scripting
-🔧  Version Control → Git / GitHub
+AWS          ███████████████░░░   exploring
+Docker       ████████████████░░   hands-on
+Kubernetes   ██████████████░░░░   learning
+Terraform    ███████████████░░░   hands-on
+Jenkins      ██████████████░░░░   hands-on
+Linux        ████████████████░░   comfortable
+Git          █████████████████░   daily use
 ```
 
 ---
 
-### `currently_focusing_on`
+### `$ ls ~/projects`
 
-`AWS` · `Kubernetes` · `Terraform` · `Docker` · `Jenkins` · `Monitoring`
+```text
+📁 student-management-system/
+   └── AWS · Docker · Kubernetes · Jenkins
+
+📁 aws-monitoring-dashboard/
+   └── CloudWatch · Grafana · EC2
+
+📁 terraform-infrastructure/
+   └── Terraform · AWS · VPC · EC2
+```
+
+---
+
+### `$ tail -f learning.log`
+
+```text
+[✓] Linux & Shell
+[✓] Git & GitHub
+[✓] Docker
+[✓] AWS fundamentals
+[✓] Terraform fundamentals
+[✓] Kubernetes fundamentals
+[→] CI/CD
+[→] Monitoring & Observability
+[→] More real-world troubleshooting
+```
+
+---
 
 <div align="center">
 
-### `learn()` · `build()` · `automate()` · `monitor()` · `improve()` 🚀
+### `while (learning) { keepGoing(); }` 🚀
+
+<br>
+
+**If it can be automated, I'll probably try.**
+
+<br>
+
+<a href="www.linkedin.com/in/komal-memane-538a553aa">LinkedIn</a>
+  •   <a href="https://github.com/komal-memane">GitHub</a>
 
 </div>
