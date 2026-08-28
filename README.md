@@ -1,121 +1,155 @@
+<div align="center">
+
 # `komal@devops:~$`
 
 ### Komal Memane
 
 **DevOps Engineer Intern · Pune, India**
 
-> **“Automate the boring. Debug the unexpected.”**
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1200&color=00D9FF&center=true&vCenter=true&width=720&lines=I+like+turning+%22it+works%22+into+%22it+deploys%22.;Automate+the+boring.+Debug+the+unexpected.;Learning+to+keep+production+boring." />
+
+<br>
+
+### **“Make it work. Make it repeatable. Make it boring.”**
+
+</div>
 
 ---
 
-```console
-komal@devops:~$ ./about-me
+<div align="center">
 
-Initializing...
+**DevOps Engineer Intern interested in the space between code and production.**
 
-[████████████████████████████] 100%
+*Where deployments need to work, infrastructure needs to behave,
+and “works on my machine” needs to retire.*
 
-NAME        Komal Memane
-ROLE        DevOps Engineer Intern
-STATUS      Learning • Experimenting • Improving
-CURRENTLY   Turning coffee into commands ☕ → $ _
+</div>
 
-```
+<br>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```console
-komal@devops:~$ cat philosophy
+### `HOW I THINK`
 
-╭──────────────────────────────────────────────╮
-│                                              │
-│  Make it work.                               │
-│  Make it repeatable.                         │
-│  Make it automated.                          │
-│  Then figure out why it broke at 2 AM.      │
-│                                              │
-╰──────────────────────────────────────────────╯
+I don't want to memorize commands.
 
-```
+I want to understand **what they're doing, why something broke, and how to avoid repeating the same problem.**
 
----
+</td>
 
-```console
-komal@devops:~$ ls -la ./mindset
+<td width="50%" valign="top">
 
-drwxr-xr-x  curiosity
-drwxr-xr-x  troubleshooting
-drwxr-xr-x  automation
-drwxr-xr-x  continuous-learning
--rwxr-xr-x  coffee.sh
-
-```
-
----
-
-```console
-komal@devops:~$ ./daily-workflow.sh
-
-$ git push
-      ↓
-$ pipeline
-      ↓
-$ build
-      ↓
-$ deploy
-      ↓
-$ something breaks
-      ↓
-$ check logs
-      ↓
-$ fix it
-      ↓
-$ deploy again
-
-                 ┌─────────────────┐
-                 │      SUCCESS    │
-                 └────────┬────────┘
-                          │
-                          ↓
-                       repeat.
-
-```
-
----
-
-### `404: "works on my machine" not found`
-
-`debugging > guessing`
-
-`automation > repetition`
-
-`logs > assumptions`
-
----
-
-```console
-komal@devops:~$ git status
-
-On branch: learning
-
-Your branch is ahead of yesterday.
-
-nothing is broken...
-
-yet. :)
-
-```
-
----
-
-### `komal@devops:~$ ./keep-going.sh`
+### `MY KIND OF PROBLEM`
 
 ```text
-learning...
-experimenting...
-troubleshooting...
-improving...
-
-Process exited with code 0
-
+something broke
+       ↓
+check
+       ↓
+understand
+       ↓
+fix
+       ↓
+automate
 ```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### `THE GOLDEN RULE`
+
+**If I do it twice → automate it.**
+
+**If it breaks → read the logs.**
+
+**If I don't understand it → learn it.**
+
+**If it works → don't touch production. 😭**
+
+</div>
+
+---
+
+### `RECENTLY IN THE LAB`
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  ☁  AWS                                                 │
+│     Infrastructure • Compute • Monitoring               │
+│                                                          │
+│  📦 Docker                                               │
+│     Containerized applications                           │
+│                                                          │
+│  ☸  Kubernetes                                          │
+│     Deployments • EKS                                   │
+│                                                          │
+│  ⚙  Terraform                                            │
+│     Infrastructure as Code                               │
+│                                                          │
+│  🔄 Jenkins                                              │
+│     CI/CD                                                │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+### `THINGS I'VE ACTUALLY TOUCHED`
+
+**AWS** · **Docker** · **Kubernetes** · **Terraform** · **Jenkins** · **Linux** · **Git** · **CloudWatch** · **Grafana**
+
+</div>
+
+---
+
+<div align="center">
+
+### `404`
+
+**“Works on my machine”**
+
+*The requested excuse could not be found.*
+
+</div>
+
+---
+
+<div align="center">
+
+### `komal@devops:~$ git status`
+
+```text
+On branch: learning
+
+modified:
+    knowledge
+    experience
+    curiosity
+
+untracked:
+    better-ideas
+
+status: improving
+```
+
+<br>
+
+**Still learning. Still experimenting. Still checking the logs.**
+
+<br>
+
+<a href="www.linkedin.com/in/komal-memane-538a553aa">LinkedIn</a>
+   ·    <a href="https://github.com/komal-memane">GitHub</a>
+
+</div>
+
